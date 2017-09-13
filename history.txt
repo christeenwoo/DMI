@@ -1,0 +1,94 @@
+    1  VirtualBox --startvm XP
+    2  uname
+    3  uname -r
+    4  lsb_release
+    5  cat /etc/*-release
+    6  echo $0
+    7  pwd
+    8  whoami
+    9  ls
+   10  ls -r
+   11  ls pwd 
+   12  ls pwd
+   13  cd
+   14  ls cd
+   15  cdpwd
+   16  /cd
+   17  cd Desktop/
+   18  cd Docummets
+   19  pwd
+   20  cd  Documents
+   21  mdkir
+   22  main
+   23  pwd
+   24  cd ..
+   25  ls -la
+   26  cd ..
+   27  pwd
+   28  ls -la
+   29  cd //
+   30  cd..
+   31  cd ..
+   32  pwd
+   33  cd ..
+   34  pwd
+   35  cd `
+   36  cd\
+   37  cd ~
+   38  pwd
+   39  > pwd
+   40  pwd
+   41  > ls
+   42  where
+   43  home/user/darbi
+   44  pwd
+   45  ls
+   46  git init
+   47  git add .
+   48  git config ~~global user.email kristine.breda@gmail.com
+   49  git config --global user.email kristine.breda@gmail.com
+   50  git commit -m "13.09.2017_09_35"
+   51  git remote add origin https://github.com/rtu-etf/2017_2018_01.git
+   52  echo
+   53  man echo
+   54  $ echo Tecmint is a community of Linux Nerds
+   55  $ x=10
+   56  cd ..
+   57  $ echo Tecmint is a community of Linux Nerds
+   58  $ x=10
+   59  \b
+   60  -e
+   61  echo [option(s)] [string(s)]
+   62  echo [options] [strings]
+   63  echo Tecmint is a community of Linux Nerds
+   64  x=10
+   65  echo The value of variable x = $x
+   66  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   67  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   68  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   69  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   70  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   71  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+   72  echo -e "Tecmint \ris a communuty of Linux Nerds"
+   73  echo -e "Tecmint is a community \cof Linux Nerds"
+   74  echo -n "Tecmint is a community of Linux Nerds"
+   75  -e "Tecmint is a community of \aLinux Nerds"
+   76  echo "darbi.txt" > darbi.txt
+   77  "darbi" > darbi
+   78  echo *.jpeg
+   79  echo "Test Page" >testpage
+   80  network.jpeg
+   81  ## check content
+   82  avi@ecmint:~$ cat testpage
+   83  echo *.jpeg
+   84  network.jpeg
+   85  echo -e "Christeenwoo petuh"
+   86  echo -n "Christeenwoo petuh"
+   87  echo "Test Page"
+   88  echo "Test Page" > teksts.txt
+   89  cd
+   90  ls -l
+   91  cd darbi
+   92  pwd
+   93  ls
+   94  history > history.txt
