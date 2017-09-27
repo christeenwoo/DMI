@@ -1,7 +1,7 @@
 #!/bin/bash
 config --global user.email kristine.breda@gmail.com
 git add .
-git commit -m "20170920_11_55"
+git commit -m "20170927_11_50"
 git push origin master
 
 

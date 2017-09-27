@@ -1,38 +1,25 @@
     1  VirtualBox --startvm XP
-    2  git clone https://github.com/christeenwoo/DMI
-    3  ls -l
-    4  cd DMI
-    5  cd "DMI"
-    6  NAME="Zara Ali"
-    7  VAR1="Zara Ali"
-    8  VAR2=100
-    9  #!/bin/sh
-   10  NAME="Zara Ali"
-   11  echo $NAME
-   12  #!/bin/sh
-   13  NAME="Zara Ali"
-   14  readonly NAME
-   15  NAME="Qadiri"
-   16  unset variable_name
-   17  #!/bin/sh
-   18  NAME="Zara Ali"
-   19  unset NAME
-   20  echo $NAME
-   21  mainiigais=10
-   22  echo $mainiigais
-   23  mainiigais______=20
-   24  echo mainiigais____
-   25  echo $mainiigais____
-   26  echo $mainiigais_____
-   27  echo $mainiigais______
-   28  pwd
-   29  nano shell_programming.sh
-   30  ls -l
-   31  chmod 744 shell_programming.sh
-   32  shell_programming.sh
-   33  pwd
-   34  cat shell_programming.sh
-   35  nano shell_programming.sh 
-   36  nano
-   37  nano git-upload
-   38  history > history_20170927.txt
+    2  echo $$
+    3  echo $n
+    4  echo $#
+    5  $*
+    6  $@
+    7  $$
+    8  nano shell_programming.sh
+    9  nano shell_programming.sh 
+   10  /shell_programming.sh
+   11  ./shell_programming.sh
+   12  cat shell_programming.sh
+   13  shell_programming.sh arg1
+   14  ./shell_programming.sh
+   15  ./shell_programming.sh arg1
+   16  ./shell_programming.sh arg1 arg2
+   17  ./shell_programming.sh arg1 arg2 arg3
+   18  nano shell_programming.sh 
+   19  nano shell_programming.sh
+   20  ./nano shell_programming.sh
+   21  nano shell_programming.sh
+   22  nano shell_programming.sh 
+   23  git-upload
+   24  nano git-upload
+   25  history > history_20170927.txt
