@@ -63,3 +63,5 @@
    63  history > history_20171011_09_50.txt
    64  ./git-upload 20171011_11_50
    65  history > history_20171011_09_50.txt
+   66  ./git-upload 20171011_09_50
+   67  history > hystory_20171011_11_50.txt

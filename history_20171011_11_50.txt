@@ -63,3 +63,13 @@
    63  history > history_20171011_09_50.txt
    64  ./git-upload 20171011_11_50
    65  history > history_20171011_09_50.txt
+   66  ./git-upload 20171011_09_50
+   67  history > hystory_20171011_11_50.txt
+   68  ./git-upload 20171011_11_50
+   69  nano git-uplaod
+   70  nano git-upload
+   71  history
+   72  history > history_20171011_11_50.txt
+   73  ./git-upload 20171011_11_50
+   74  nano git-upload
+   75  history > history_20171011_11_50.txt

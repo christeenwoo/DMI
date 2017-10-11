@@ -1,7 +1,10 @@
 #!/bin/bash
+if [ $# == 1 ]
+then
 config --global user.email kristine.breda@gmail.com
 git add .
-git commit -m "20171011_09_50"
+# git commit -m "20171011_09_50"
+git commit -m $1
 git push origin master
-
+fi
 
