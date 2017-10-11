@@ -1,0 +1,48 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -l
+    4  git clone https://github.com/christeenwoo/DMI
+    5  git clone https://github.com/christeenwoo/DMI.git
+    6  ls -l
+    7  cd DMI
+    8  nano
+    9  cat shell.operators.sh
+   10  nano
+   11  ch mod 744 shell.operators.sh
+   12  ls -l
+   13  nano
+   14  chmod 744 shell.operators.sh
+   15  ./shell.operators.sh
+   16  nano
+   17  chmod 744 shell.operators.sh
+   18  ./shell.operators.sh
+   19  nano
+   20  ls -l
+   21  nano
+   22  chmod 744 shell.operators.sh
+   23  ./shell.operators.sh
+   24  nano
+   25  chmod 744 shell.operators.sh
+   26  ./shell.operators.sh
+   27  nano
+   28  nano shell.operators.sh
+   29  ./shell.operators.sh
+   30  nano shell.operators.sh
+   31  ./shell.operators.sh
+   32  nano shell.operators.sh
+   33  nano shell.operatoes.sh
+   34  nano shell.operators.sh
+   35  chmod 744 shell.operators.sh
+   36  ./shell.operators.sh
+   37  nano shell.operators.sh
+   38  ./shell.operators.sh
+   39  nano shell.operators.sh
+   40  ./shell.operators.sh
+   41  nano shell.operators.sh
+   42  ./shell.operators.sh
+   43  nano shell.operators.sh
+   44  ./shell.operators.sh
+   45  nano shell.operators.sh
+   46  ./shell.operators.sh
+   47  nano git-upload
+   48  history > history_20171011_09_50.txt
