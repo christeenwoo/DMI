@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  pwd
+    4  git clone https:/github.com/christeenwoo/DMI
+    5  ls -la
+    6  nano dialogs.sh
+    7  ./dialogs.sh
+    8  nano dialogs.sh
+    9  ./dialogs.sh
+   10  nano dialogs.sh
+   11  ./dialogs.sh
+   12  nano dialogs.sh
+   13  ./dialogs.sh
+   14  nano dialogs.sh
+   15  ./dialogs.sh
+   16  nano dialogs.sh
+   17  ./dialogs.sh
+   18  nano dialogs.sh
+   19  ./dialogs.sh
+   20  nano dialogs.sh
+   21  ./dialogs.sh
+   22  nano dialogs.sh
+   23  ./dialogs.sh
+   24  ls -l
+   25  cp a_dialogs.sh a_VS_b_VS_c.sh
+   26  nano 
+   27  cp a_dialogs.sh a_VS_b_VS_c.sh
+   28  cp dialogs.sh a_VS_b_VS_c.sh
+   29  nano dialogs.sh
+   30  nano dialogs.sh 
+   31  history nano git-upload
+   32  nano git-upload
+   33  history > history_20171018_11_50.txt
