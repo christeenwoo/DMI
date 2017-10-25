@@ -1,0 +1,52 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/christeenwoo/DMI
+    3  ls- l
+    4  ls -l
+    5  cd
+    6  cd DMI
+    7  nano 
+    8  pwd
+    9  nano if_c02.sh
+   10  chmod 744 if_c02.sh
+   11  nano if_c02.sh
+   12  chmod 744 if_c02.sh
+   13  ./if_c02.sh
+   14  cat if_c02.sh
+   15  nano if_c02.sh
+   16  ./if_c02.sh 10
+   17  ./if_c02.sh -10
+   18  nano if_c02.sh 
+   19  ./if_c02.sh 10
+   20  nano if_c02.sh 
+   21  ./if_c02.sh 10
+   22  nano if_c02.sh 
+   23  ./if_c02.sh 10
+   24  ./if_c02.sh -10
+   25  nano if_c02.sh 
+   26  ./if_c02.sh 10
+   27  ./if_c02.sh -10
+   28  ./if_c02.sh 0
+   29  nano if_c02.sh 
+   30  ./if_c02.sh 10
+   31  ./if_c02.sh -10
+   32  ./if_c02.sh 0
+   33  nano if_c02.sh 
+   34  y
+   35  nano if_c02.sh 
+   36  nano statistika.sh
+   37  nano if_c02.sh 
+   38  nano statistika.sh 
+   39  nano if_c02.sh 
+   40  nano statistika.sh 
+   41  nano array_c02.sh
+   42  nano array_loop.sh
+   43  chmod 744 array_loop.sh
+   44  ./array_loop.sh 
+   45  nano array_loop.sh 
+   46  ./array_loop.sh 
+   47  ./array_loop.sh 10 89 63
+   48  nano array_loop.sh 
+   49  cat array_loop.sh 
+   50  ./array_loop.sh 10 89
+   51  ./array_loop.sh 4 5 6
+   52  history > history_20171025_11_00.txt
