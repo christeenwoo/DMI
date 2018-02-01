@@ -6,11 +6,11 @@ read b ;
 echo "Ievadi trešo skaitli:"
 read c ;
 echo
-echo "----------------------"
-echo "Pirmais skaitlis = $a |"
-echo "Otrais skaitlis  = $b |"
-echo "Trešais skaitlis = $c |"
-echo "----------------------"
+echo
+echo "Pirmais skaitlis = $a"
+echo "Otrais skaitlis  = $b"
+echo "Trešais skaitlis = $c"
+
 #MINIMĀLĀ VĒRTĪBA
 if  (( $a > $b )) && (( $a > $c )) && (( $b > $c )); then
 echo " Minimālā vērtība = $c "
@@ -157,3 +157,4 @@ fi
 if (( $c > $a )) && (( $c > $b )) && (( $b > $a )); then
 echo " Modas nav "
 fi
+
