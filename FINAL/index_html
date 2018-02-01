@@ -74,7 +74,7 @@
    <h6>Uzdevuma apraksts (ko es no tā sarotu):</h6>
     <pre>Uzdevuma galvenais mērķis ir ... izmantojot ... piemēram ...</pre>
    <h6>Attēls(i) ar rezultātiem</h6>
-    <a href="...">
+    <a href="https://github.com/christeenwoo/DMI/blob/master/python/dichotomy.py">
     <img src="...">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
@@ -141,20 +141,20 @@
   <h5>Nodarbību vēsture</h5>
    <ol>
     <li><a href="...">mācību nedēļa (04.09 - 08.09)</a></li>
-    <li><a href="...">mācību nedēļa (11.09 - 15.09)</a></li>
-    <li><a href="...">mācību nedēļa (18.09 - 22.09)</a></li>
-    <li><a href="...">mācību nedēļa (25.09 - 29.09)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/37e4fac31eab824c0d31e0a0f8c40fd0d513922d">mācību nedēļa (11.09 - 15.09)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/cc16e684f5412874ed97ab10466e57809fc406d4">mācību nedēļa (18.09 - 22.09)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/03b3833cce2b26eecc39eca413a4c385f6233acf">mācību nedēļa (25.09 - 29.09)</a></li>
     <li><a href="...">mācību nedēļa (02.10 - 06.10)</a></li>
-    <li><a href="...">mācību nedēļa (09.10 - 13.10)</a></li>
-    <li><a href="...">mācību nedēļa (16.10 - 20.10)</a></li>
-    <li><a href="...">mācību nedēļa (23.10 - 27.10)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/bdc7012f72182f1b27a8c86f3167502590dde8f5">mācību nedēļa (09.10 - 13.10)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/9e94c889ac5cf0225632c50744fba84b8f797ad6">mācību nedēļa (16.10 - 20.10)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/9f64beb35ab795d9ae98420f4209b7181cd791d3">mācību nedēļa (23.10 - 27.10)</a></li>
     <li><a href="...">mācību nedēļa (30.10 - 03.11)</a></li>
-    <li><a href="...">mācību nedēļa (06.11 - 10.11)</a></li>
-    <li><a href="...">mācību nedēļa (13.11 - 17.11)</a></li>
-    <li><a href="...">mācību nedēļa (21.11 - 24.11)</a></li>
-    <li><a href="...">mācību nedēļa (27.11 - 01.12)</a></li>
-    <li><a href="...">mācību nedēļa (04.12 - 08.12)</a></li>
-    <li><a href="...">mācību nedēļa (11.12 - 15.12)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/bb81d022d5ad61972d94a1eb2163eaf35753e0c9">mācību nedēļa (06.11 - 10.11)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/23edf0f7dbaaf2d939034b4afe8ec7f5ebf9e82b">mācību nedēļa (13.11 - 17.11)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/b17ee244cf6b60ca00b473d3fcd34744b1097cef">mācību nedēļa (21.11 - 24.11)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/aa12ea8daa97e0a0599db678d7679e223aa53da4">mācību nedēļa (27.11 - 01.12)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/37f2b54eb0afd1ce5d96f8d9b3b8b520f71c5a11">mācību nedēļa (04.12 - 08.12)</a></li>
+    <li><a href="https://github.com/christeenwoo/DMI/commit/39936e0fa7cf49604cdb289efded05b9630e793e">mācību nedēļa (11.12 - 15.12)</a></li>
     <li><a href="...">mācību nedēļa (18.12 - 22.12)</a></li>
    </ol>
 
